@@ -1,0 +1,26 @@
+.COMPLETEDtodo-item {
+    color: green;
+    text-decoration: line-through;
+}
+.breathehorizontal{
+    margin-bottom: 10px;
+    margin-left: 430px;
+    margin-right:495px;
+    border: solid;
+}
+
+.buttonClass {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+#spanid{
+    font-size: 24px;
+    margin-right: 5px;
+}
